@@ -1,0 +1,48 @@
+section{
+    display: flex;
+    justify-content: center;
+    padding-top: 13rem;
+}
+
+h1{
+ border-bottom: 2px solid black;
+}
+
+.tarea{
+    display: flex;
+    gap: 3rem;
+}
+h4{
+    margin: 0;
+}
+.template{
+    display: flex;
+}
+.div{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 1rem;
+}
+.total_resultados{
+    display: flex;
+    flex-direction: column;
+    padding-bottom: 5rem;
+}
+.cajas{
+    display: flex;
+    flex-direction: column;
+    gap: 2rem;
+
+}
+.idtareas{
+    display: flex;
+    gap: 20px;
+}
+.divdetareas{
+    display: flex; 
+    gap: 20px;
+}
+#icono{
+    padding-left: 2rem;
+}
